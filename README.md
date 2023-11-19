@@ -24,3 +24,4 @@ Clone the repository.
 Run flutter pub get to install dependencies.
 Open the project in your favorite Flutter development environment.
 Dive into the code and explore the magic!
+![alt text](https://raw.githubusercontent.com/Djallelbrahmia/receipUiKit/main/screen.png)
